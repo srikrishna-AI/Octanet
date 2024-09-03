@@ -1,5 +1,5 @@
 import time
-print("Welcome to Your Bank ATM:")
+print("Welcome to Your Bank ATM")
 pin = 1234
 time.sleep(2)
 balance =5000
